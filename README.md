@@ -1,6 +1,9 @@
-# Tic Tac Toe in React
+# Tic Tac Toe in React!
 
 Simple tic-tac-toe in react.
+
+# Try the demo!
+https://tictactoe-cyan-chi.vercel.app/
 
 ### `npm start`
 
