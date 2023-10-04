@@ -11,4 +11,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-![Screenshot](tictactoe.png)
+![Alt text](src/img/tictactoe.PNG "TicTacToe")
